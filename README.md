@@ -1,1 +1,2 @@
-# 使用Nuxt构建的data-hub项目
+# nuxt-data-hub
+Nuxt版本的data-hub
